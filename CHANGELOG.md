@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-06-09
+
 ### Changed
 
 - Rename group ID from `org.wildfly.extras.grpc` to `org.wildfly.grpc`
@@ -279,7 +281,8 @@ Lots of new features, bug fixes and dependency upgrades went into this release.
 - for dependency upgrades
 -->
 
-[Unreleased]: https://github.com/wildfly-extras/wildfly-grpc-feature-pack/compare/v0.1.16...HEAD
+[Unreleased]: https://github.com/wildfly-extras/wildfly-grpc-feature-pack/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/wildfly-extras/wildfly-grpc-feature-pack/compare/v0.1.16...v0.2.0
 [0.1.16]: https://github.com/wildfly-extras/wildfly-grpc-feature-pack/compare/v0.1.15...v0.1.16
 [0.1.15]: https://github.com/wildfly-extras/wildfly-grpc-feature-pack/compare/v0.1.14...v0.1.15
 [0.1.14]: https://github.com/wildfly-extras/wildfly-grpc-feature-pack/compare/v0.1.13...v0.1.14
