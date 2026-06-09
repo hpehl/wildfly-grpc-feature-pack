@@ -6,6 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Changed
+
+- Rename group ID from `org.wildfly.extras.grpc` to `org.wildfly.grpc`
+
+### Fixed
+
+- Add `io.perfmark` module to fix `ClassNotFoundException` for PerfMark
+- Replace ZipExporter debug code with Arquillian `deploymentExportPath`
+- Fix documentation links in README
+
+### Upgrades
+
+- Bump Galleon Maven Plugin to 7.0.3.Final
+- Bump gRPC to 1.79.0
+- Bump Kotlin to 2.3.10
+- Bump proto-google-common-protos to 2.66.0
+- Bump Protobuf to 4.33.5
+- Bump WildFly to 39.0.1.Final
+- Bump WildFly Core to 31.0.3.Final
+
 ## [0.1.16] - 2026-01-29
 
 ### Upgrades
